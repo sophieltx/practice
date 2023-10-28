@@ -8,11 +8,11 @@ except:
     print("-1")
 
 
-*X + b*Y == N and a+b == M
-N,M,X,Y = map(int,input().split())
-a = (N-M*Y)//(X-Y)
-b = M - a
-if a < 0:
-    print (a,b)
-else :
-    print ("-1 -1")
+# *X + b*Y == N and a+b == M
+# N,M,X,Y = map(int,input().split())
+# a = (N-M*Y)//(X-Y)
+# b = M - a
+# if a < 0:
+#     print (a,b)
+# else :
+#     print ("-1 -1")
